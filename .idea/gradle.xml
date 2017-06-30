@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/drawerlayout" />
             <option value="$PROJECT_DIR$/floatingactionbutton" />
             <option value="$PROJECT_DIR$/navigationview" />
+            <option value="$PROJECT_DIR$/tablayoutviewpager" />
             <option value="$PROJECT_DIR$/toolbar" />
           </set>
         </option>
